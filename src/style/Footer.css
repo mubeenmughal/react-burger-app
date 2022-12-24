@@ -1,0 +1,64 @@
+.BuildControls__BuildControls__220uz {
+  /* position: fixed; */
+  font-family: Open Sans, sans-serif;
+  width: 100%;
+  background-color: #cf8f2e;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  box-shadow: 0 2px 1px #ccc;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.BuildControl__BuildControl__ibcUQ {
+  font-family: Open Sans, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.BuildControl__Label__2VLnR {
+  font-family: Open Sans, sans-serif;
+  padding: 10px;
+  font-weight: 700;
+  width: 80px;
+}
+
+.BuildControl__Less__3X6hg {
+  display: block;
+  font: inherit;
+  padding: 5px;
+  margin: 0 5px;
+  width: 80px;
+  outline: none;
+  background-color: #1c1b1a;
+  border: 1px solid #d48216;
+  color: rgb(225, 216, 216);
+  cursor: default;
+}
+
+.BuildControl__More__2eQpV {
+  display: block;
+  font: inherit;
+  padding: 5px;
+  margin: 0 5px;
+  width: 80px;
+  border: 1px solid #aa6817;
+  cursor: pointer;
+  outline: none;
+  background-color: #8f5e1e;
+  color: #fff;
+}
+
+.BuildControls__OrderButton__1ScSk {
+  outline: none;
+  font-family: inherit;
+  font-size: 1.2em;
+  padding: 15px 30px;
+  box-shadow: 2px 2px 2px #966909;
+  background-color: #c7c6c6;
+  border: 1px solid #ccc;
+  color: #888;
+}

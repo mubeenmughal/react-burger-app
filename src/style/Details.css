@@ -1,0 +1,55 @@
+.ContactData__ContactData__1whvJ {
+    font-family: Open Sans, sans-serif;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 20px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 500px;
+    padding-top: 30px;
+  }
+  
+  .Input__Input__1VROp {
+    font-family: Open Sans, sans-serif;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .Input__Label__1tOSX {
+    font-family: Open Sans, sans-serif;
+    text-align: center;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .Input__InputElement__3TB0k {
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .Button__Button__ajevi {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 700;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  .Button__Success__1DMln {
+    color: #5c9210;
+  }
+  
